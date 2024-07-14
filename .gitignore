@@ -1,3 +1,4 @@
 chroma
 .env
-.python-version/
+.python-version
+.DS_Store/
